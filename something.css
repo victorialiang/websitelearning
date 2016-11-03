@@ -1,0 +1,23 @@
+.text {
+    background-color: aliceblue;
+}
+/*everything is a rectangle*/
+/*margin = push everything away*/
+#urface {
+    font-weight: bold;
+    font-size: 30px;
+    margin: 40px;
+    color: blue;
+}
+
+.panel{
+  background-color: azure;
+  margin: 10px;
+  padding: 20px;
+}
+
+.panel:hover{
+  background-color: black;
+  color: white;
+
+}
